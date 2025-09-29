@@ -1,4 +1,4 @@
-# 🎓 Projet de Rattrapage - HETIC
+# 🎓 Projet de Rattrapage - HETIC - ABI Saad
 
 Ce projet est une application fullstack (React + Node.js/Express + PostgreSQL) permettant de gérer et consulter des formations.  
 Il a été développé dans le cadre du rattrapage et inclut à la fois un site public** et un espace admin sécurisé.
