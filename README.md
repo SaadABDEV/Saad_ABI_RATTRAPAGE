@@ -29,10 +29,3 @@ Il a été développé dans le cadre du rattrapage et inclut à la fois un site 
 - **Auth :** JWT (JSON Web Token)
 
 ---
-
-## ⚙️ Installation et lancement
-
-### 1. Cloner le projet
-```bash
-git clone https://github.com/SaadABDEV/Saad_ABI_RATTRAPAGE.git
-cd Saad_ABI_RATTRAPAGE
